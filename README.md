@@ -1,3 +1,13 @@
+制作サイト名：Books_Search
+
+制作者：安本
+PHPフレームワーク：Laravel8
+CSSフレームワーク：BULMA
+開発環境：xampp7.4.25
+
+==============================
+以下 Laravel REDME.md
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
